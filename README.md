@@ -50,8 +50,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pazo01&theme=dark" alt="GitHub Streak" />
 </p>
 
-  ![gon-gon-confused](https://github.com/user-attachments/assets/97b7d5e4-b66e-4a49-a364-33de6c2ac66d)
-
-  
-
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97b7d5e4-b66e-4a49-a364-33de6c2ac66d" alt="gon-gon-confused" width="250"/>
+</p>
