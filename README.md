@@ -50,4 +50,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pazo01&theme=dark" alt="GitHub Streak" />
 </p>
 
+
+![blue-lock-reo](https://github.com/user-attachments/assets/5dff1008-a221-4156-8480-c65b31ee45bd)
+
+
 ---
