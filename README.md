@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">Passionate software engineering student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pazo01" alt="pazo01" /></a> </p>
-
 - 🔭 I’m currently working on [TravelShareApp](https://github.com/pazo01/TravelShareApp)
 
 - 🌱 I’m currently learning **html and java**
 
 - 💬 Ask me about **python , ctf and c**
 
-- 📫 How to reach me **elpaso260@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alessandro pasetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro pasetti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alesssandro-pasetti-38781a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alesssandro-pasetti-38781a24a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pazo01&show_icons=true&theme=dark&locale=en&layout=compact" alt="pazo01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazo01&show_icons=true&theme=dark&locale=en" alt="pazo01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazo01&show_icons=true&theme=dark&title_color=e000d9&locale=en" alt="pazo01" /></p>
