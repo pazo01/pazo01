@@ -8,6 +8,8 @@
 - 🌱 I’m learning **Web Development (HTML, CSS, JS) and Java**
 - 💬 Ask me about **Python, C, Cybersecurity & CTFs**
 - 🎯 My goal: **Build impactful projects and grow as a full-stack developer**
+- **Languages:** 🇫🇷 French · 🇮🇹 Italian · 🇬🇧 English
+
 
 ---
 
